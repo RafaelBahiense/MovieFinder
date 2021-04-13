@@ -7,4 +7,4 @@ Site de compra de ingressos
 [Clique aqui](https://rafaelbahiense.github.io/MovieFinder/) para acessar o projeto
 
 
-![App screencap](https://github.com/RafaelBahiense/MovieFinder/blob/master/img/Screenshot.pngraw=true)
+![App screencap](https://github.com/RafaelBahiense/MovieFinder/blob/master/img/Screenshot.png?raw=true)
